@@ -4,3 +4,6 @@ body {
 header {
   border: 5px groove green;
 }
+footer {
+  text-align: center;
+}
