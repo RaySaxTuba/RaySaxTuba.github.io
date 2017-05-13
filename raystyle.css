@@ -5,7 +5,7 @@ header {
   background-color: gray;
 }
 footer {
-  text-align: center;
+  text-align: center; opacity: 0.8;
 }
 img {
   width: 100px; border: 3px groove teal;
