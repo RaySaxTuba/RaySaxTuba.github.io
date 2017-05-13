@@ -1,8 +1,8 @@
 body {
   font-family: Verdana; background-color: #507090;
 }
-header.menu {
-  border: 5px groove green;
+header {
+  background-color: gray;
 }
 footer {
   text-align: center;
@@ -12,4 +12,7 @@ img {
 }
 main {
   margin: 0px 200px 0px 200px; background-color: white;
+}
+.menu {
+  padding: 5px;
 }
