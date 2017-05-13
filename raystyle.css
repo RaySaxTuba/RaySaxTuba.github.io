@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana;
+  font-family: Verdana; background-color: #507090;
 }
 header.menu {
   border: 5px groove green;
@@ -11,5 +11,5 @@ img {
   width: 100px; border: 3px groove teal;
 }
 main {
-  margin: 200px; background-color: #507090
+  margin: 200px; background-color: white;
 }
