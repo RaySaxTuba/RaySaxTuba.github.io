@@ -11,5 +11,5 @@ img {
   width: 100px; border: 3px groove teal;
 }
 main {
-  margin: 200px; background-color: white;
+  width: 60%; margin: 200px; background-color: white;
 }
