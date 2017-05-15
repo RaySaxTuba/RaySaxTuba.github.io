@@ -17,7 +17,9 @@
     	<main>
 			<h1>Ray's Wacky Images</h1>
 			<p>These are original pictures by Raymond Raps. Have a lookaround!</p>
-			<img src="Real Count Calcula.png" alt="Funny image of calculus">
+			<img src="images/Real Count Calcula.png" alt="Funny image of calculus" title="Just fooling around with Geogebra and calculus!">
+			<img src="images/Wendy Drawing.JPG" alt="Ray's drawing of Wendy from Gravity Falls" title="A drawing of Wendy from Gravity Falls that I did.">
+			<img src="images/Ray!.jpeg" alt="Raymond Raps picture" title="This is me!">
     	</main>
     	<footer>
       		&#169; 2017 Raymond Raps<br>
