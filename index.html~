@@ -12,7 +12,7 @@
   </head>
   <body>
     <header>
-      <a class="menu">Home</a><a href="raybio.html" class="menu">About Me</a><a class="menu">Contact</a><a class="menu" href="images.html">My images</a><a class="menu">My music</a>
+      <a class="menu">Home</a><a href="raybio.html" class="menu">About Me</a><a class="menu">Contact</a><a class="menu">My images</a><a class="menu">My music</a>
     </header>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
