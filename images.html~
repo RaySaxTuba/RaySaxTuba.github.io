@@ -12,14 +12,25 @@
 	</head>
 	<body>
 		<header>
-      		<a class="menu" href="index.html">Home</a><a href="raybio.html" class="menu">About Me</a><a class="menu">Contact</a><a class="menu">My images</a><a class="menu">My music</a>
+      		<a class="menu" href="index.html">Home</a>
+      		<a href="raybio.html" class="menu">About Me</a>
+      		<a class="menu">Contact</a>
+      		<a class="menu">My images</a>
+      		<a class="menu">My music</a>
+      		<a>Favorite Funny Quotes</a>
     	</header>
     	<main>
 			<h1>Ray's Wacky Images</h1>
 			<p>These are original pictures by Raymond Raps. Have a lookaround!</p>
-			<a href="images/Real Count Calcula.png" target="_blank"><img src="images/Real Count Calcula.png" alt="Funny image of calculus" title="Just fooling around with Geogebra and calculus!"></a>
-			<a href="images/Wendy Drawing.JPG"><img src="images/Wendy Drawing.JPG" alt="Ray's drawing of Wendy from Gravity Falls" title="A drawing of Wendy from Gravity Falls that I did."></a>
-			<img src="images/Ray!.jpeg" alt="Raymond Raps picture" title="This is me!">
+			<a href="images/Real Count Calcula.png" target="_blank">
+				<img src="images/Real Count Calcula.png" alt="Funny image of calculus" title="Just fooling around with Geogebra and calculus!">
+			</a>
+			<a href="images/Wendy Drawing.JPG" target="_blank">
+				<img src="images/Wendy Drawing.JPG" alt="Ray's drawing of Wendy from Gravity Falls" title="A drawing of Wendy from Gravity Falls that I did.">
+			</a>
+			<a href="images/Ray!.jpeg" target="_blank">
+				<img src="images/Ray!.jpeg" alt="Raymond Raps picture" title="This is me!">
+			</a>
     	</main>
     	<footer>
       		&#169; 2017 Raymond Raps<br>
