@@ -20,5 +20,9 @@ main {
   padding: 5px;
 }
 audio {
+	align-content: center;
+}
+.visit {
 	
 }
+/*Make the background a gradient*/

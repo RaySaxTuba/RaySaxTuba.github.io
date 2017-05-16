@@ -14,12 +14,12 @@
   </head>
   <body>
     <header>
-      <a href="index.html" class="menu">Home</a>
-      <a class="menu">About Me</a>
-      <a class="menu">Contact</a>
-      <a class="menu" href="images.html">My images</a>
-      <a class="menu">My music</a>
-      <a class="menu">Favorite Funny Quotes</a>
+      <a href="index.html" class="visit" onclick="getVisitors()">Home</a>
+      <a class="visit" href="raybio.html" onclick="getVisitors()">About Me</a>
+      <a class="visit">Contact</a>
+      <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
+      <a class="visit">My music</a>
+      <a class="visit">Favorite Funny Quotes</a>
     </header>
     <main>
     	<h1>Ray's Favorite Quotes</h1>
@@ -30,16 +30,20 @@
     		Your browser does not support audio
     	</audio>
     	<br>
-    	<span>Angry German Kid's trademark scream!</span>
+    	<span>Angry German Kid's trademark scream!:</span>
     	<audio controls>
     		<source src="audio/AGK Scream TM.wav">
     		Your browser does not support audio
     	</audio>
+    	<br>
+    	<span>It's Starscream!</span>
     </main>
     <footer>
       	&#169; 2017 Raymond Raps<br>
       	<a>Terms and Privacy</a><br>
       	Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
+      	<br>
+      Amount of visitors:
     </footer>
   </body>
 </html>

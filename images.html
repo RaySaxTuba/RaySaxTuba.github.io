@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<!--You might want to put a table in this page.-->
 	<head>
 		<title>Ray's Wacky Images</title>
 		<link rel="stylesheet" type="text/css" href="raystyle.css">
@@ -14,12 +15,12 @@
 	</head>
 	<body>
 		<header>
-      		<a class="menu" href="index.html">Home</a>
-      		<a href="raybio.html" class="menu">About Me</a>
-      		<a class="menu">Contact</a>
-      		<a class="menu">My images</a>
-      		<a class="menu">My music</a>
-      		<a href="quotes.html">Favorite Funny Quotes</a>
+      		<a class="visit" href="index.html" onclick="getVisitors()">Home</a>
+      		<a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
+      		<a class="visit">Contact</a>
+      		<a class="visit">My images</a>
+      		<a class="visit">My music</a>
+      		<a href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
     	</header>
     	<main>
 			<h1>Ray's Wacky Images</h1>
@@ -38,6 +39,8 @@
       		&#169; 2017 Raymond Raps<br>
       		<a>Terms and Privacy</a><br>
       		Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
+      		<br>
+      		Amount of visitors: <span id="viscount"></span>
     	</footer>
 	</body>
 </html>
