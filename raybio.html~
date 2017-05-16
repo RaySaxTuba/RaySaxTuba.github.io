@@ -46,7 +46,7 @@
       <a>Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
-      Amount of visitors:
+      Amount of visitors: <span id="viscount"></span>
     </footer>
   </body>
 </html>
