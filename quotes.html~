@@ -30,7 +30,8 @@
     		Your browser does not support audio
     	</audio>
     	<br>
-    	<audio>
+    	<span>Angry German Kid's trademark scream!</span>
+    	<audio controls>
     		<source src="audio/AGK Scream TM.wav">
     		Your browser does not support audio
     	</audio>

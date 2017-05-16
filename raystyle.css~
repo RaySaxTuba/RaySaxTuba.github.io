@@ -20,5 +20,5 @@ main {
   padding: 5px;
 }
 audio {
-	text-align: center;
+	
 }

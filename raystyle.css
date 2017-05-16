@@ -19,4 +19,6 @@ main {
 .menu {
   padding: 5px;
 }
-/*Put in audio selector.*/
+audio {
+	align-content: center;
+}
