@@ -1,5 +1,5 @@
 //This will calculate how many visitors came to this site.
-var visit
+var visit;
 function getVisitors() {
 	return visit + 1;
 }
