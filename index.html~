@@ -12,7 +12,6 @@
     <meta name="author" content="Raymond J. Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="rayscript.js">
-    
     </script>
   </head>
   <body>
@@ -27,7 +26,9 @@
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of Raymond Raps. This is currently under construction.</p>
-      <p>News:</p>
+      <h2>News - May 25:</h2>
+      <p>Hey guys, I am currently making a show called Universes Collide. It is a crossover show with characters that you know about
+      in the fictional universe from Mario to Transformers. Feel free to join the show effort!</p>
       <p>Great websites and open source programs to check out :) :</p>
       <ul>
         <li><a href="http://bwtf.com/">Ben's World of Transformers</a></li>
