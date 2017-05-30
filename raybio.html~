@@ -40,6 +40,7 @@
           <li>Trombone</li>
           <li>Trumpet</li>
           <li>Tuba</li>
+          <li><a href="">Kazoo</a></li>
         </ul>
       </p>
     </main>
@@ -48,7 +49,7 @@
       <a>Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
-      Amount of visitors: <span id="viscount"></span>
+      Amount of visitors: <span id="viscount">null</span>
     </footer>
   </body>
 </html>
