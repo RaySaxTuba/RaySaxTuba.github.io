@@ -39,10 +39,6 @@
     	</audio>
     	<br>
     	<span>It's Starscream!</span>
-    	<audio controls>
-    		<source src="audio/It's Starscream!.wav">
-    		Your browser does not support audio
-    	</audio>
     </main>
     <footer>
       	&#169; 2017 Raymond Raps<br>
