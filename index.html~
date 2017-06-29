@@ -53,7 +53,7 @@
     </main>
     <footer>
       &#169; 2017 Raymond Raps<br>
-      <a>Terms and Privacy</a><br>
+      <a href="terms_privacy.html">Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
       Amount of visitors: <span id="viscount"></span>
