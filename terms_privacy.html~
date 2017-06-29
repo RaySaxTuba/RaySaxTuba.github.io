@@ -16,7 +16,7 @@
   </head>
   <body>
      <header>
-      <a class="visit">Home</a>
+      <a  class="visit">Home</a>
       <a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
       <a class="visit">Contact</a>
       <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
@@ -41,7 +41,6 @@
       <a>Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
-      Amount of visitors: <span id="viscount"></span>
     </footer>
   </body>
 </html>

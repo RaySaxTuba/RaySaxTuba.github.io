@@ -23,6 +23,6 @@ audio {
 	align-content: center;
 }
 ul, ol {
-	color: hotpink;
+	color: greenyellow;
 }
 /*Make the background a gradient*/
