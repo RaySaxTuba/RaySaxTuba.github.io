@@ -58,7 +58,13 @@
     	<br>
     	<span>I'm really good at it!</span>
     	<audio controls>
-    		<source src="audio/MAH candy!.mp3">
+    		<source src="audio/Im really good at it.wav">
+    		Your browser does not support audio
+    	</audio>
+    	<br>
+    	<span>I don't give!</span>
+    	<audio controls>
+    		<source src="audio/Im really good at it.wav">
     		Your browser does not support audio
     	</audio>
     </main>
