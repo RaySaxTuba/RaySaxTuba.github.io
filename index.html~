@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <!--Add links to your other sites like Pinterest.-->
+<!--Make reviews for open source programs.-->
 <html>
   <head>
     <title>Welcome to Ray's World of Weird, Whimsical, Wacky Wonder!</title>
@@ -23,6 +24,7 @@
       <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
       <a class="visit">My music</a>
       <a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
+      <a>Open source programs reviews</a>
     </header>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
@@ -75,6 +77,11 @@
 						<ul>
 							<li><a href="https://obsproject.com/">OBS</a></li>
 							<li><a href="http://www.openshot.org/">OpenShot</a></li>
+						</ul>
+					<li>Programming languages:</li>
+						<ul>
+							<li><a href="https://processing.org/">Processing</a></li>
+							<li><a href="https://puredata.info/">Pure Data</a></li>
 						</ul>
       			</ul>
 				<li>Musical instrument sites:</li>

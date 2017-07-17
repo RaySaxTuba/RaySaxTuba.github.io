@@ -17,22 +17,46 @@
 	</head>
 	<body>
 		<header>
-      		<a class="visit" href="index.html" onclick="getVisitors()">Home</a>
-      		<a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
-      		<a class="visit">Contact</a>
-      		<a class="visit">My images</a>
-      		<a class="visit">My music</a>
-      		<a href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
-    	</header>
+      <a class="visit">Home</a>
+      <a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
+      <a class="visit">Contact</a>
+      <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
+      <a class="visit">My music</a>
+      <a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
+      <a>Open source programs reviews</a>
+    </header>
     	<main>
 			<h1>Ray's Wacky Images</h1>
 			<p>These are original pictures by Raymond Raps. Have a lookaround!</p>
-			<a href="images/Real Count Calcula.png" target="_blank">
-				<img src="images/Real Count Calcula.png" alt="Funny image of calculus" title="Just fooling around with Geogebra and calculus!">
-			</a>
-			<a href="images/Wendy Drawing.JPG" target="_blank">
-				<img src="images/Wendy Drawing.JPG" alt="Ray's drawing of Wendy from Gravity Falls" title="A drawing of Wendy from Gravity Falls that I did.">
-			</a>
+			<table>
+				<caption>Ray's wacky images</caption>
+				<thead>
+					<th>Picture:</th>
+					<th>Description:</th>
+					<th>Additional info:</th>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							<a href="images/Real Count Calcula.png" target="_blank">
+								<img src="images/Real Count Calcula.png" alt="Funny image of calculus" title="Just fooling around with Geogebra and calculus!">
+							</a>
+						</td>
+						<td>Just fooling around with Geogebra and calculus!</td>
+						<td>Source: Geogebra</td>
+					</tr>
+					<tr>
+						<td>
+							<a href="images/Wendy Drawing.JPG" target="_blank">
+								<img src="images/Wendy Drawing.JPG" alt="Ray's drawing of Wendy from Gravity Falls" title="A drawing of Wendy from Gravity Falls that I did.">
+							</a>
+						</td>
+						<td>A drawing of Wendy from Gravity Falls that I did.</td>
+						<td>Source: iPhone photo</td>
+					</tr>
+				</tbody>
+				<tfoot></tfoot>
+			</table>
 			<a href="images/Ray!.jpeg" target="_blank">
 				<img src="images/Ray!.jpeg" alt="Raymond Raps picture" title="This is me!">
 			</a>
@@ -61,7 +85,7 @@
 				<img src="images/Rukia drawing.jpg" alt="Rukia drawing by Raymond Raps" title="A drawing of Rukia from BLEACH by me!">
 			</a>
 			<a href="images/Random sexy drawings.jpg" target="_blank">
-				<img src="images/Random sexy drawings.jpg" alt="Rukia drawing by Raymond Raps" title="A drawing of Rukia from BLEACH by me!">
+				<img src="images/Random sexy drawings.jpg" alt="Random drawings of some girls and a Decepticon" title="A collage of anime girls and a Transformer!">
 			</a>
     	</main>
     	<footer>

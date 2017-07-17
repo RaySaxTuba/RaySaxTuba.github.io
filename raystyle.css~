@@ -23,6 +23,10 @@ audio {
 	align-content: center;
 }
 ul, ol {
-	color: greenyellow;
+	color: hotpink;
 }
-/*Make the background a gradient*/
+table, th, td {
+	border: 3px groove teal;
+	border-collapse: collapse;
+}
+/*Fix the background gradient*/

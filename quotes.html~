@@ -15,22 +15,19 @@
     </script>
   </head>
   <body>
-    <header>
-      <a href="index.html" class="visit" onclick="getVisitors()">Home</a>
-      <a class="visit" href="raybio.html" onclick="getVisitors()">About Me</a>
+	<header>
+      <a class="visit">Home</a>
+      <a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
       <a class="visit">Contact</a>
       <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
       <a class="visit">My music</a>
-      <a class="visit">Favorite Funny Quotes</a>
+      <a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
+      <a>Open source programs reviews</a>
     </header>
     <main>
     	<h1>Ray's Favorite Quotes</h1>
     	<p>Here are recordings of my favorite quotes! Have a listen by clicking on the play buttons!</p>
-    	<span>I hate you!:</span>
-    	<audio controls>
-    		<source src="audio/I hate you!.wav">
-    		Your browser does not support audio
-    	</audio>
+    	<a href="audio/I hate you!.wav">I hate you!:</a>
     	<br>
     	<span>Angry German Kid's trademark scream!:</span>
     	<audio controls>
@@ -64,7 +61,7 @@
     	<br>
     	<span>I don't give!</span>
     	<audio controls>
-    		<source src="audio/Im really good at it.wav">
+    		<source src="audio/I dont give!.wav">
     		Your browser does not support audio
     	</audio>
     </main>

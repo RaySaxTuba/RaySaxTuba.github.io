@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Openshot review</title>
+<link rel="stylesheet" type="text/css" href="raystyle.css">
+<link rel="icon" type="img/jpeg" href="images/Ray!.jpeg">
+<meta charset="UTF-8">
+<meta name="description" content="Ray's review of Openshot">
+<meta name="keywords" content="Raymond Raps, tuba, saxophone,
+Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
+Anime, images, funny, Tourettes Guy, Reviews">
+<meta name="author" content="Raymond J. Raps" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" src="rayscript.js">
+</script>
+</head>
+<body>
+<header>
+<a class="visit">Home</a>
+<a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
+<a class="visit">Contact</a>
+<a class="visit" href="images.html" onclick="getVisitors()">My images</a>
+<a class="visit">My music</a>
+<a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
+<a>Open source programs reviews</a>
+</header>
+<main>
+<h1>Review of Openshot</h1>
+<h2>What is this program?</h2>
+<p>Openshot is an open source video editor
+that has functionality similar to commercial video editors like Final Cut Pro, Premiere, and Media Composer. Openshot was created in 2008 by
+Jonathan Thomas.</p>
+<h2>Main review</h2>
+<p>I think this program has the potential to be the definitive open source video editor, but unfortunately falls short by quite a bit.
+The features of this program include:
+<ul>
+<li>Support for most video files for use in the user's project.</li>
+<li>Importing SVG files to use as titles.</li>
+<li>Exporting to a couple of video formats.</li>
+<li>Compatibility with Linux, Windows, and Mac.</li>
+<li>Ability to make animated titles via Blender.</li>
+<li>Effects like slow motion, fade in and out, and more.</li>
+</ul>
+So where does this program fall short? It crashes easily. Oh snap!
+It crashes at a random time or usually from putting a time effect on a video.
+This program also has a complicated time trying to do animated titles.
+</p>
+</ul>
+</main>
+<footer>
+&#169; 2017 Raymond Raps<br>
+<a href="terms_privacy.html">Terms and Privacy</a><br>
+Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
+<br>
+</footer>
+</body>
+</html>

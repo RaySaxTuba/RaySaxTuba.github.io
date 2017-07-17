@@ -9,7 +9,6 @@
 	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
     		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
     		Anime, images, funny, Tourettes Guy">
-    <!--Remember to make code lines less than 80 characters.-->
     <meta name="author" content="Raymond J. Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="rayscript.js">
@@ -50,7 +49,6 @@
       <a href="terms_privacy.html">Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
-      Amount of visitors: <span id="viscount">null</span>
     </footer>
   </body>
 </html>
