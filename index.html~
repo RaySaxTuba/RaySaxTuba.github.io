@@ -20,6 +20,17 @@
     <header>
     Ray's website
     </header>
+    <nav>
+    <ul>
+      <li><a class="visit">Home</a></li>
+      <li><a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a></li>
+      <li><a class="visit">Contact</a></li>
+      <li><a class="visit" href="images.html" onclick="getVisitors()">My images</a></li>
+      <li><a class="visit">My music</a></li>
+      <li><a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a></li>
+      <a>Open source programs reviews</a>
+    </ul>
+    </nav>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of Raymond Raps. This is currently under construction.</p>

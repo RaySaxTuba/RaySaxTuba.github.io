@@ -37,6 +37,9 @@ table, th, td {
 nav {
 	overflow: hidden;
 	background-color: silver;
+	position: relative;
+	top: 20;
+	width: 100%;
 }
 nav a {
 	float: left;
@@ -49,5 +52,11 @@ nav a {
 nav a:hover {
 	background-color: #ffeead;
 	color: black;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
 }
 /*Make it compatible with phone browsers.*/
