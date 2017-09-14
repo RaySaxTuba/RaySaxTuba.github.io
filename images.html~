@@ -17,7 +17,8 @@ Anime, images, funny, Tourettes Guy">
 </head>
 <body>
 <header>
-The Website of Raymond Raps
+<strong>The Website of Raymond Raps</strong>
+    <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
 </header>
 <nav>
     <ul>
