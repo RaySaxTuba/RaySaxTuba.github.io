@@ -3,6 +3,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Verdana;
+	color: teal;
 }
 header {
   background-color: gray;
@@ -19,7 +20,6 @@ main {
   margin: 0px 200px 0px 200px;
   background-color: white;
   border: 2px ridge blue;
-  color: teal;
 }
 .menu {
   padding: 5px;
