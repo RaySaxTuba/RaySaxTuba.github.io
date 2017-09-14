@@ -17,12 +17,12 @@
   <body>
 <header>
 The Website of Raymond Raps
+<img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
 </header>
 <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="raybio.html">About Me</a></li>
-      <li><a>Contact</a></li>
       <li><a href="images.html">My images</a></li>
       <li><a>My music</a></li>
       <li><a href="quotes.html" class="active">Favorite Funny Quotes</a></li>
