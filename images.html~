@@ -17,7 +17,7 @@ Anime, images, funny, Tourettes Guy">
 </head>
 <body>
 <header>
-<a class="visit">Home</a>
+<a href="index.html" class="visit">Home</a>
 <a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
 <a class="visit">Contact</a>
 <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
@@ -36,6 +36,37 @@ Anime, images, funny, Tourettes Guy">
 <th>Additional info:</th>
 </thead>
 <tbody>
+<tr>
+<td>
+<a href="images/The force.PNG" target="_blank">
+<img src="images/The force.PNG" alt="The force is strong with mah stinky breath!" title="The force is strong with mah stinky breath!">
+</a>
+</td>
+<td>The force is strong with mah stinky breath!</td>
+<td>Source: VSDC</td>
+</tr>
+<tr>
+<td>
+<a href="images/Erza fashion.jpg" target="_blank">
+<img src="images/Erza fashion.jpg" alt="Erza from Fairy Tail wearing a frigging sexy outfit!" title="Looks like Erza went retro and hit the floor!">
+</a>
+</td>
+<td>
+Looks like Erza went retro and hit the floor!
+</td>
+<td>
+Source: Scanned with a printer
+</td>
+</tr>
+<tr>
+<td>
+<a href="images/Menardi colored.jpg" target="_blank">
+<img src="images/Menardi colored.jpg" alt="A drawing I did of Menardi from Golden Sun!" title="Menardi from Golden Sun.">
+</a>
+</td>
+<td>A drawing I did of Menardi from Golden Sun!</td>
+<td>Source: GIMP</td>
+</tr>
 <tr>
 <td>
 <a href="images/Real Count Calcula.png" target="_blank">
@@ -64,9 +95,11 @@ Anime, images, funny, Tourettes Guy">
 <td>Source: Macbook Pro camera</td>
 </tr>
 <tr>
+<td>
 <a href="images/Various Drawings.JPG" target="_blank">
 <img src="images/Various Drawings.JPG" alt="Drawings of some random characters" title="Just some various drawings I did from fooling around.">
 </a>
+</td>
 <td>Just some various drawings I did from fooling around.</td>
 <td>Source: iPhone photo</td>
 </tr>
@@ -74,18 +107,7 @@ Anime, images, funny, Tourettes Guy">
 <tfoot></tfoot>
 </table>
 
-<a href="images/Menardi colored.jpg" target="_blank">
-<img src="images/Menardi colored.jpg" alt="A drawing I did of Menardi from Golden Sun!" title="Menardi from Golden Sun.">
-</a>
-<a href="images/Erza fashion.jpg" target="_blank">
-<img src="images/Erza fashion.jpg" alt="Erza from Fairy Tail wearing a frigging sexy outfit!" title="Looks like Erza went retro and hit the floor!">
-</a>
-<a href="images/Rays first freaking flute.JPG" target="_blank">
-<img src="images/Rays first freaking flute.JPG" alt="Image of my first freaking flute!" title="A picture of my first frigging flute I ever owned!">
-</a>
-<a href="images/The force.PNG" target="_blank">
-<img src="images/The force.PNG" alt="The force is strong with mah stinky breath!" title="The force is strong with mah stinky breath!">
-</a>
+
 <a href="images/Nabiki Tendo art.jpg" target="_blank">
 <img src="images/Nabiki Tendo art.jpg" alt="Drawing of Nabiki Tendo from Ranma 1/2" title="A drawing I made of Nabiki Tendo from the anime Ranma 1/2">
 </a>
