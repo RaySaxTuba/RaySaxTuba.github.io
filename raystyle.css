@@ -6,6 +6,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 header {
   background-color: gray;
+  padding: 20px;
+  font-size: 20pt;
 }
 footer {
   text-align: center; opacity: 0.8;
@@ -32,4 +34,20 @@ table, th, td {
 	border: 3px groove teal;
 	border-collapse: collapse;
 }
-/*Fix the background gradient*/
+nav {
+	overflow: hidden;
+	background-color: silver;
+}
+nav a {
+	float: left;
+	display: block;
+	color: gold;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+nav a:hover {
+	background-color: #ffeead;
+	color: black;
+}
+/*Make it compatible with phone browsers.*/

@@ -18,20 +18,14 @@
   </head>
   <body>
     <header>
-      <a class="visit">Home</a>
-      <a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
-      <a class="visit">Contact</a>
-      <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
-      <a class="visit">My music</a>
-      <a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
-      <a>Open source programs reviews</a>
+    Ray's website
     </header>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of Raymond Raps. This is currently under construction.</p>
       <h2>News - August 24, 2017</h2>
       <hr>
-      
+      <p>Sorry about the lack of updates. A lot of things going on that I can't list right now.</p>
       <h2>News - July 6, 2017</h2>
       <hr>
       <p>I got into making apps and games for you guys! I will have a page dedicated to my apps and games. Stay tuned!</p>
@@ -80,6 +74,7 @@
 						<ul>
 							<li><a href="https://obsproject.com/">OBS</a></li>
 							<li><a href="http://www.openshot.org/">OpenShot</a></li>
+							<li><a href="https://www.blender.org/">Blender</a></li>
 						</ul>
 					<li>Programming languages:</li>
 						<ul>
