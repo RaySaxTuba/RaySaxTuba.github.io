@@ -59,4 +59,8 @@ nav ul {
 	padding: 0;
 	display: inline;
 }
+.active {
+	background-color: #ffeead;
+	color: black;
+}
 /*Make it compatible with phone browsers.*/

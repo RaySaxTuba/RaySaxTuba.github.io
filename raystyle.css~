@@ -59,4 +59,7 @@ nav ul {
 	padding: 0;
 	display: inline;
 }
+.active {
+	
+}
 /*Make it compatible with phone browsers.*/
