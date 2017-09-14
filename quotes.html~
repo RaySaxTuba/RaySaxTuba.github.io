@@ -25,7 +25,7 @@ The Website of Raymond Raps
       <li><a>Contact</a></li>
       <li><a href="images.html">My images</a></li>
       <li><a>My music</a></li>
-      <li><a href="quotes.html">Favorite Funny Quotes</a></li>
+      <li><a href="quotes.html" class="active">Favorite Funny Quotes</a></li>
     </ul>
     </nav>
  <main>
