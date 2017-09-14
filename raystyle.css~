@@ -1,5 +1,8 @@
 body {
-  font-family: Verdana; background: linear-gradient(to bottom right, blue, green);
+  font-family: Tahoma; background: linear-gradient(to bottom right, blue, green);
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Verdana;
 }
 header {
   background-color: gray;

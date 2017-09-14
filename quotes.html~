@@ -17,7 +17,7 @@
   <body>
 <header>
 <a href="index.html" class="visit">Home</a>
-<a href="raybio.html" class="visit" onclick="getVisitors()">About Me</a>
+<a href="raybio.html" class="visit">About Me</a>
 <a class="visit">Contact</a>
 <a class="visit" href="images.html" onclick="getVisitors()">My images</a>
 <a class="visit">My music</a>
@@ -28,6 +28,7 @@
  	<h1>Ray's Favorite Quotes</h1>
  	<p>Here are recordings of my favorite quotes! Have a listen by clicking on the play buttons!</p>
 <table>
+<caption>Ray's favorite quotes</caption>
 <thead>
 <th>Quote title:</th>
 <th>Quote soundfile:</th>
