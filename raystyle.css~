@@ -3,11 +3,17 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Verdana;
+	color: teal;
 }
 header {
-  background-color: gray;
+  background-color: whitesmoke;
   padding: 20px;
+  font-family: Arial;
   font-size: 20pt;
+  color: firebrick;
+  text-shadow: 4px 3px gray;
+  border: 3px groove turquoise;
+  margin: 0;
 }
 footer {
   text-align: center; opacity: 0.8;
@@ -63,3 +69,4 @@ nav ul {
 	color: black;
 }
 /*Make it compatible with phone browsers.*/
+/*Put dropdown menus for your content.*/
