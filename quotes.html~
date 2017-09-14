@@ -16,14 +16,18 @@
   </head>
   <body>
 <header>
-<a href="index.html" class="visit">Home</a>
-<a href="raybio.html" class="visit">About Me</a>
-<a class="visit">Contact</a>
-<a class="visit" href="images.html" onclick="getVisitors()">My images</a>
-<a class="visit">My music</a>
-<a class="visit" href="quotes.html" onclick="getVisitors()">Favorite Funny Quotes</a>
-<a>Open source programs reviews</a>
- </header>
+The Website of Raymond Raps
+</header>
+<nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="raybio.html">About Me</a></li>
+      <li><a>Contact</a></li>
+      <li><a href="images.html">My images</a></li>
+      <li><a>My music</a></li>
+      <li><a href="quotes.html">Favorite Funny Quotes</a></li>
+    </ul>
+    </nav>
  <main>
  	<h1>Ray's Favorite Quotes</h1>
  	<p>Here are recordings of my favorite quotes! Have a listen by clicking on the play buttons!</p>
