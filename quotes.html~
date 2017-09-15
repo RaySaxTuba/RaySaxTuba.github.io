@@ -9,7 +9,7 @@
 <meta name="keywords" content="Raymond Raps, tuba, saxophone,
  		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
  		Anime, images, funny, Tourettes Guy">
- <meta name="author" content="Raymond J. Raps" >
+ <meta name="author" content="Raymond J Raps" >
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <script type="text/javascript" src="rayscript.js">
  </script>
@@ -118,6 +118,16 @@ Your browser does not support audio.
  		<source src="audio/I dont give!.wav">
  		Your browser does not support audio.
  	</audio>
+</td>
+<td>Angry Grandpa</td>
+</tr>
+<tr>
+<td>Bastards bought</td>
+<td>
+<audio controls>
+<source src="audio/Bastards bought.wav">
+Your browser does not support audio.
+</audio>
 </td>
 </tr>
 </tbody>
