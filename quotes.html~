@@ -52,7 +52,7 @@ Angry Grandpa
 </td>
 </tr>
 <tr>
-<td>Angry German Kid's trademark scream!:</td>
+<td>Angry German Kid's trademark scream!</td>
 <td>
 <audio controls>
 <source src="audio/AGK Scream TM.wav">
@@ -121,6 +121,7 @@ Your browser does not support audio.
 </td>
 <td>Angry Grandpa</td>
 </tr>
+
 <tr>
 <td>Bastards bought</td>
 <td>
@@ -129,7 +130,19 @@ Your browser does not support audio.
 Your browser does not support audio.
 </audio>
 </td>
+<td>Angry Grandpa</td>
 </tr>
+
+<tr>
+<td>I hope the Psycho Dad doesn't touch Ratchet and Clank!</td>
+<td>
+<audio controls>
+<source src="audio/I hope psy.wav">
+Your browser does not support audio.
+</audio>
+</td>
+</tr>
+
 </tbody>
 <tfoot>
 </tfoot>
