@@ -10,7 +10,7 @@
 <meta name="keywords" content="Raymond Raps, tuba, saxophone,
 Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
 Anime, images, funny, Tourettes Guy">
-<meta name="author" content="Raymond J. Raps" >
+<meta name="author" content="Raymond J Raps" >
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script type="text/javascript" src="rayscript.js">
 </script>
@@ -118,26 +118,44 @@ Source: Scanned with a printer
 </tr>
 <tr>
 <td>
-<a href="images/N64 Logo 3D.png">
+<a href="images/N64 Logo 3D.png" target="_blank">
 <img src="images/N64 Logo 3D.png" alt="Nintendo 64 logo">
 </a>
 </td>
 <td>The Nintendo 64 logo, made in Blender by me.</td>
 <td>Source: Blender</td>
 </tr>
+<tr>
+<td>
+<a href="images/The Sax Bazz Tuba Jazz!.PNG" target="_blank">
+<img src="images/The Sax Bazz Tuba Jazz!.PNG" alt="Possibly the sexiest picture ever!" title="This is possibly the sexiest picture I made!">
+</a>
+</td>
+<td>This is possibly the sexiest picture I ever made!</td>
+<td>Source: iPhone photo</td>
+</tr>
+<tr>
+<td>
+<a href="images/Rukia drawing.jpg" target="_blank">
+<img src="images/Rukia drawing.jpg" alt="Rukia drawing by Raymond Raps" title="A drawing of Rukia from BLEACH by me!">
+</a>
+</td>
+<td>A drawing of Rukia from BLEACH, by me!</td>
+<td>Source: GIMP</td>
+</tr>
+<tr>
+<td>
+<a href="images/Random sexy drawings.jpg" target="_blank">
+<img src="images/Random sexy drawings.jpg" alt="Random drawings of some girls and a Decepticon" title="A collage of anime girls and a Transformer!">
+</a>
+</td>
+<td>A collage of anime girls and a Transformer!</td>
+<td>Source: Scanned with a printer</td>
+</tr>
 </tbody>
 <tfoot></tfoot>
 </table>
 
-<a href="images/The Sax Bazz Tuba Jazz!.PNG" target="_blank">
-<img src="images/The Sax Bazz Tuba Jazz!.PNG" alt="Possibly the sexiest picture ever!" title="This is possibly the sexiest picture I made!">
-</a>
-<a href="images/Rukia drawing.jpg" target="_blank">
-<img src="images/Rukia drawing.jpg" alt="Rukia drawing by Raymond Raps" title="A drawing of Rukia from BLEACH by me!">
-</a>
-<a href="images/Random sexy drawings.jpg" target="_blank">
-<img src="images/Random sexy drawings.jpg" alt="Random drawings of some girls and a Decepticon" title="A collage of anime girls and a Transformer!">
-</a>
 </main>
 <footer>
 &#169; 2017 Raymond Raps<br>
