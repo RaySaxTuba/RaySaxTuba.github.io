@@ -218,6 +218,18 @@ Your browser does not support audio.
 Your browser does not support audio.
 </audio>
 </td>
+<td>UltraJMan</td>
+</tr>
+
+<tr>
+<td>The tuba is loud in the orchestra!</td>
+<td>
+<audio controls>
+<source src="audio/Tubah.wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>Me</td>
 </tr>
 <!--Add Oboe Smexy Waffles and The Tuba Is Loud!-->
 </tbody>
