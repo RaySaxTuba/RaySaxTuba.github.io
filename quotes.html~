@@ -159,7 +159,7 @@ Your browser does not support audio.
 <td>The force is strong with mah stinky breath!</td>
 <td>
 <audio controls>
-<source src="audio/youstupid.wav">
+<source src="audio/The force.wav">
 Your browser does not support audio.
 </audio>
 </td>
@@ -230,6 +230,16 @@ Your browser does not support audio.
 </audio>
 </td>
 <td>Me</td>
+</tr>
+
+<tr>
+<td>Los geht los! Spielen!</td>
+<td>
+<audio controls>
+<source src="audio/Los geht.wav">
+Your browser does not support audio.
+</audio>
+</td>
 </tr>
 <!--Add Oboe Smexy Waffles and The Tuba Is Loud!-->
 </tbody>
