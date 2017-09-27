@@ -9,15 +9,15 @@
 	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
     		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
     		Anime, images, funny, Tourettes Guy">
-    <meta name="author" content="Raymond J. Raps" >
+    <meta name="author" content="Raymond J Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="rayscript.js">
     </script>
   </head>
   <body>
     <header>
-    <strong>The Website of Raymond Raps</strong>
     <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
+    <strong>The Website of Raymond Raps</strong>
     </header>
     <nav>
     <ul>
@@ -38,6 +38,7 @@
         <ul>
           <li>Clarinet</li>
           <li>Flute</li>
+          <li><a href="audio/Electric Bass.wav">Electric Bass</a></li>
           <li>Percussion/Drums</li>
           <li>Alto saxophone</li>
           <li>Tenor saxophone</li>
