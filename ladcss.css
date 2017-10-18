@@ -2,3 +2,11 @@ body {
 	font-family: Verdana, Tahoma;
 	background: linear-gradient(to bottom right, red, black);
 }
+
+img {
+	width: 100px;
+}
+
+footer {
+	text-align: center;
+}
