@@ -28,11 +28,15 @@
       <li><a href="images.html">My images</a></li>
       <li><a>My music</a></li>
       <li><a href="quotes.html">Favorite Funny Quotes</a></li>
+      <li><a>Ray's apps</a></li>
     </ul>
     </nav>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of Raymond Raps. This is currently under construction.</p>
+      <h2>News - December 7, 2017</h2>
+      <hr>
+      <p>I'm back! The long hiatus was cause of a lot going on. I am also making a new page for the site where you can download free apps from me!</p>
       <h2>News - August 24, 2017</h2>
       <hr>
       <p>Sorry about the lack of updates. A lot of things going on that I can't list right now.</p>
@@ -49,7 +53,7 @@
       in the fictional universe from Mario to Transformers. Feel free to join the show effort!</p>
       <hr>
       <p>Great websites and open source programs to check out:</p>
-      <a class="secret" href="adlhome.html">Tuba</a>
+      <a class="secret" href="ladhome.html">Tuba</a>
       <ul>
       		<li>Open source software:</li>
       			<ul>
