@@ -46,7 +46,7 @@ Have a listen!
 <tr>
 <td>
 <audio controls>
-<source src="audio/Mixing the experience.wav">
+<source src="audio/Mixing the experience.wav" type="audio/wav">
 Your browser does not support audio.
 </audio>
 </td>
