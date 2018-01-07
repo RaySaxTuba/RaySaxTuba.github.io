@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
     		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
     		Anime, images, funny, Tourettes Guy">
-    <meta name="author" content="Raymond J Raps" >
+    <meta name="author" content="Raymond Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="rayscript.js">
     </script>
@@ -26,7 +26,7 @@
       <li><a href="index.html" class="active">Home</a></li>
       <li><a href="raybio.html">About Me</a></li>
       <li><a href="images.html">My images</a></li>
-      <li><a>My music</a></li>
+      <li><a href="music.html">My music</a></li>
       <li><a href="quotes.html">Favorite Funny Quotes</a></li>
       <li><a href="software.html">Ray's apps</a></li>
     </ul>
@@ -34,23 +34,6 @@
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of Raymond Raps. This is currently under construction.</p>
-      <h2>News - December 7, 2017</h2>
-      <hr>
-      <p>I'm back! The long hiatus was cause of a lot going on. I am also making a new page for the site where you can download free apps from me!</p>
-      <h2>News - August 24, 2017</h2>
-      <hr>
-      <p>Sorry about the lack of updates. A lot of things going on that I can't list right now.</p>
-      <h2>News - July 6, 2017</h2>
-      <hr>
-      <p>I got into making apps and games for you guys! I will have a page dedicated to my apps and games. Stay tuned!</p>
-      <h2>News - July 3, 2017:</h2>
-      <hr>
-      <p>I might get a new camera called the Panasonic Lumix G7. It can do 4K recording and It has a ton of megapixels.</p>
-      <hr>
-      <h2>News - May 25:</h2>
-      <hr>
-      <p>Hey guys, I am currently making a show called Universes Collide. It is a crossover show with characters that you know about
-      in the fictional universe from Mario to Transformers. Feel free to join the show effort!</p>
       <hr>
       <p>Great websites and open source programs to check out:</p>
       <a class="secret" href="ladhome.html">Tuba</a>
