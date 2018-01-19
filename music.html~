@@ -51,6 +51,17 @@ Your browser does not support audio.
 </audio>
 </td>
 <td>This is a song that uses complex chord mixing, crazy drums, and noises!</td>
+<td>Logic Pro X</td>
+</tr>
+<tr>
+<td>
+<audio controls>
+<source src="audio/The Ray Tublues Quartet.wav" type="audio/wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>I used synthesized instruments and algorithmic composition to make this.</td>
+<td>SuperCollider</td>
 </tr>
 </tbody>
 </table>

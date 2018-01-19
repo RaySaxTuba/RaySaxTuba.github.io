@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!--Add links to your other sites like Pinterest.-->
 <!--Make reviews for open source programs.-->
+<!--Add a news page-->
 <html>
   <head>
     <title>Welcome to Ray's World of Weird, Whimsical, Wacky Wonder!</title>
@@ -13,10 +14,15 @@
     		Anime, images, funny, Tourettes Guy">
     <meta name="author" content="Raymond Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="text/javascript" src="rayscript.js">
+    <script type="text/javascript">
+	var visit;    
+    function getVisit() {
+	visit += 1;
+    }
+    document.getElementById('visit').innerHTML = visit;
     </script>
   </head>
-  <body>
+  <body onload="getVisit()">
     <header>
     <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
     <strong>The Website of Raymond Raps</strong>
@@ -105,6 +111,7 @@
 				</ul>
       </ul>
       <hr>
+      <p>This page got <span id="visit"></span>visits.</p>
     </main>
     <footer>
       &#169; 2018 Raymond Raps<br>
