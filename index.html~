@@ -21,6 +21,9 @@
     }
     document.getElementById('visit').innerHTML = visit;
     </script>
+    <script type="text/javascript" src="rayscript.js">
+    
+    </script>
   </head>
   <body onload="getVisit()">
     <header>
@@ -114,7 +117,7 @@
       <p>This page got <span id="visit"></span>visits.</p>
     </main>
     <footer>
-      &#169; 2018 Raymond Raps<br>
+      &#169; <span id="copyright"></span> Raymond Raps<br>
       <a href="terms_privacy.html">Terms and Privacy</a><br>
       Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
       <br>
