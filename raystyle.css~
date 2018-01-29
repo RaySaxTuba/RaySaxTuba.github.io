@@ -68,5 +68,9 @@ nav ul {
 	background-color: #ffeead;
 	color: black;
 }
+
+.secret {
+	opacity: 0
+}
 /*Make it compatible with phone browsers.*/
 /*Put dropdown menus for your content.*/
