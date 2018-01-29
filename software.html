@@ -11,7 +11,11 @@
     		Anime, images, funny, Tourettes Guy">
     <meta name="author" content="Raymond Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="text/javascript" src="rayscript.js">
+    <script type="text/javascript">
+    var canvas = document.getElementById("mahNewton");
+    var ctx = canvas.getContext("2d");
+    ctx.fillStyle = "#FF0000";
+    ctx.fillRect(0,0,30, 30);
     </script>
 </head>
 <body>
@@ -31,8 +35,11 @@
     </nav>
     <main>
     <h1>Ray's badass apps</h1>
-<p>Welcome to my apps page! This is where I make original apps and you can download them for free!</p>
-<a href="apps/Santa's Naughty or Nice.zip">Ray's first test (macOS version)</a>
+<p>Welcome to my apps page! This is where I make original apps for you to enjoy!</p>
+<canvas id="mahNewton" width="500" height="500"
+style="border:1px groove green">
+
+</canvas>
     </main>
     <footer>
       &#169; 2017 Raymond Raps<br>
