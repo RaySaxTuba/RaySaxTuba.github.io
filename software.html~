@@ -36,8 +36,7 @@
     <main>
     <h1>Ray's badass apps</h1>
 <p>Welcome to my apps page! This is where I make original apps for you to enjoy!</p>
-<canvas id="mahNewton" width="500" height="500"
-style="border:1px groove green">
+<canvas id="mahNewton" width="500" height="500">
 
 </canvas>
     </main>
