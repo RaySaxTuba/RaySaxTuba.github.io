@@ -31,7 +31,7 @@
     <h1>Ray's badass apps</h1>
 <p>Welcome to my apps page! This is where I make original apps for you to enjoy!</p>
 <canvas id="mahNewton" width="500" height="500">
-<img src="images/Ray!.jpeg" alt="Mah candy!" id="raytuba">
+
 </canvas>
 <script>
     var canvas = document.getElementById("mahNewton");
@@ -39,7 +39,7 @@
     ctx.fillStyle = "#FF0000";
     ctx.fillRect(0,0,30, 30);
     ctx.font = "20px Arial";
-    ctx.fillText("Bumblebee, stop lubricating the man!", 100, 200);
+    ctx.fillText("Bumblebee, stop lubricating the man!", 0, canvas.height/2);
     var img = document.getElementById("raytuba").onload;
     ctx.drawImage(img, 100, 100, 300, 300);
     </script>
