@@ -1,0 +1,14 @@
+var loudTuba = new Image();
+loudTuba.src = "images/The Sax Bazz Tuba Jazz!.PNG";
+
+function draw() {
+	var canvas = document.getElementById("mahNewton");
+	if (canvas.getContext) {
+		var ctx = canvas.getContext("2d");
+		ctx.fillStyle = "#FF0000";
+		ctx.fillRect(0,0,30, 30);
+		ctx.font = "20px Arial";
+		ctx.fillText("Bumblebee, stop lubricating the man! Tuba! Piss! Mah candy!", 0, canvas.height/2);
+		ctx.drawImage(loudTuba, 30, 30, 100, 200)
+	}
+}

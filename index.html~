@@ -14,15 +14,7 @@
     		Anime, images, funny, Tourettes Guy">
     <meta name="author" content="Raymond Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type="text/javascript">
-	var visit;    
-    function getVisit() {
-	visit += 1;
-    }
-    document.getElementById('visit').innerHTML = visit;
-    </script>
     <script type="text/javascript" src="rayscript.js">
-    
     </script>
   </head>
   <body onload="getVisit()">

@@ -11,10 +11,12 @@
     		Anime, images, funny, Tourettes Guy">
     <meta name="author" content="Raymond Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="rayapp.js">
+    </script>
 </head>
-<body>
+<body onload="draw()">
 <header>
-    <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
+    <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps" id="raytuba">
     <strong>The Website of Raymond Raps</strong>
     </header>
 <nav>
@@ -30,19 +32,9 @@
     <main>
     <h1>Ray's badass apps</h1>
 <p>Welcome to my apps page! This is where I make original apps for you to enjoy!</p>
-<canvas id="mahNewton" width="500" height="500">
-
+<canvas id="mahNewton" width="500" height="500" onclick="alert('Mah candy!')">
+Your browser does not support canvas!
 </canvas>
-<script>
-    var canvas = document.getElementById("mahNewton");
-    var ctx = canvas.getContext("2d");
-    ctx.fillStyle = "#FF0000";
-    ctx.fillRect(0,0,30, 30);
-    ctx.font = "20px Arial";
-    ctx.fillText("Bumblebee, stop lubricating the man!", 0, canvas.height/2);
-    var img = document.getElementById("raytuba").onload;
-    ctx.drawImage(img, 100, 100, 300, 300);
-    </script>
     </main>
     <footer>
       &#169; 2017 Raymond Raps<br>
