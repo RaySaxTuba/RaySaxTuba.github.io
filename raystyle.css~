@@ -1,5 +1,5 @@
 body {
-  font-family: Tahoma, Verdana; background: linear-gradient(to bottom right, blue, green);
+  font-family: Tahoma, Verdana; background: linear-gradient(to bottom right, red, green);
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Verdana;
@@ -71,6 +71,10 @@ nav ul {
 
 .secret {
 	opacity: 0
+}
+
+canvas {
+	border: 3px groove teal;
 }
 /*Make it compatible with phone browsers.*/
 /*Put dropdown menus for your content.*/
