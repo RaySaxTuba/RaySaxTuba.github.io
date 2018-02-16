@@ -99,12 +99,14 @@
 				<li>Fandom sites:</li>
 				<ul>
 					<li><a href="http://bwtf.com/">Ben's World of Transformers</a></li>
+					<li><a href="">Ratchet Galaxy</a></li>
 				</ul>
 				<li>Composer sites:</li>
 				<ul>
 					<li><a href="https://incompetech.com/">Incompetech.com</a></li>				
 				</ul>
       </ul>
+      <!--Add links to video game fandom pages like Metroid Recon, Ratchet Galaxy.-->
       <hr>
       <p>This page got <span id="visit">0</span> visits.</p>
     </main>

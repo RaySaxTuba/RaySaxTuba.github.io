@@ -2,7 +2,7 @@
 
 //document.getElementById('copyright').innerHTML = 2018;
 
-var visit;
+var visit = 0;
 
 function getVisit() {
 	visit = visit + 1;
