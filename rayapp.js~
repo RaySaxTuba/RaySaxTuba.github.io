@@ -9,6 +9,6 @@ function draw() {
 		ctx.fillRect(0,0,30, 30);
 		ctx.font = "20px Arial";
 		ctx.fillText("Bumblebee, stop lubricating the man! Tuba! Piss! Mah candy!", 0, canvas.height/2);
-		ctx.drawImage(loudTuba, 30, 30, 100, 200)
+		ctx.drawImage(loudTuba, 30, 30, 100, 200);
 	}
 }
