@@ -8,7 +8,7 @@ function draw() {
 		ctx.fillStyle = "#FF0000";
 		ctx.fillRect(0,0,30, 30);
 		ctx.font = "20px Arial";
-		ctx.fillText("Bumblebee, stop lubricating the man! Tuba! Piss! Mah candy!", 0, canvas.height/2);
+		ctx.fillText("Bumblebee, stop lubricating the man! I broke mah fucking phone!", 0, canvas.height/2);
 		ctx.drawImage(loudTuba, 30, 30, 100, 200);
 	}
 }
