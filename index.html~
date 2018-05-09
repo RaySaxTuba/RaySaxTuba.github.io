@@ -12,7 +12,7 @@
 	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
     		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
     		Anime, images, funny, Tourettes Guy">
-    <meta name="author" content="Raymond Raps" >
+    <meta name="author" content="Raymond J Raps" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" src="rayscript.js">
     </script>
@@ -34,7 +34,10 @@
     </nav>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
-      <p>This is the website of Raymond Raps. This is currently under construction.</p>
+      <p>This is the website of the wacky whimsical Raymond Raps.</p>
+      <hr>
+      <h2>Current Ray news:</h2>
+      <p>May 9, 2018: I'm in the process of making a matching puzzle game with funny and sexy images in it!</p>
       <hr>
       <p>Great websites and open source programs to check out:</p>
       <ul>
@@ -99,7 +102,7 @@
 				<li>Fandom sites:</li>
 				<ul>
 					<li><a href="http://bwtf.com/">Ben's World of Transformers</a></li>
-					<li><a href="">Ratchet Galaxy</a></li>
+					<li><a href="https://en.ratchet-galaxy.com/">Ratchet Galaxy</a></li>
 				</ul>
 				<li>Composer sites:</li>
 				<ul>
