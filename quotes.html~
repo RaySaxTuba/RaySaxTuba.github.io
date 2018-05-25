@@ -9,7 +9,7 @@
 <meta name="keywords" content="Raymond Raps, tuba, saxophone,
  		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
  		Anime, images, funny, Tourettes Guy">
- <meta name="author" content="Raymond Raps" >
+ <meta name="author" content="Raymond J Raps" >
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <script type="text/javascript" src="rayscript.js">
  </script>
@@ -324,7 +324,19 @@ Your browser does not support audio.
 <td>This is the scream, but amplified OVER 9000 decibels!</td>
 <td>Angry German Kid</td>
 </tr>
-<!--Add Oboe Smexy Waffles and a description of the quotes. Add page 2, 3...-->
+
+<tr>
+<td>Satan printer</td>
+<td>
+<audio controls>
+<source src="audio/Satan Printer.wav" type="audio/wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>Yup! This is from the goddamn demon master himself!</td>
+<td>Satan, JMan</td>
+</tr>
+
 </tbody>
 <tfoot>
 </tfoot>
