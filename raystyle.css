@@ -1,19 +1,19 @@
 body {
-  font-family: Tahoma, Verdana; background: linear-gradient(to bottom right, gray, teal);
+  font-family: Chalkboard, Tahoma, Verdana;
+  background: linear-gradient(to bottom right, gray, teal);
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: Verdana;
 	color: teal;
+	text-shadow: 4px 3px blue;
 }
 header {
   background-color: whitesmoke;
   padding: 20px;
-  font-family: Arial;
   font-size: 20pt;
   color: firebrick;
-  text-shadow: 4px 3px gray;
   border: 3px groove turquoise;
   margin: 0;
+  text-shadow: 4px 3px gray;
 }
 footer {
   text-align: center; opacity: 0.8;
@@ -54,7 +54,7 @@ nav a {
 	padding: 14px 16px;
 	text-decoration: none;
 }
-nav a:hover {
+nav a:hover, .active {
 	background-color: #ffeead;
 	color: black;
 }
@@ -63,10 +63,6 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	display: inline;
-}
-.active {
-	background-color: #ffeead;
-	color: black;
 }
 
 .secret {
