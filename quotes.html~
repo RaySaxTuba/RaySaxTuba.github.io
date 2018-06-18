@@ -32,6 +32,13 @@
  <main>
  	<h1>Ray's Favorite Quotes</h1>
  	<p>Here are recordings of my favorite quotes! Have a listen by clicking on the play buttons!</p>
+ 	
+ 	<div class="pagelist">
+ 	<p>Page:</p>
+ 	<a>1</a>
+ 	<a href="quotes2.html">2</a>
+ 	</div>
+ 	
 <table>
 <caption>Ray's favorite quotes</caption>
 <thead>
@@ -386,15 +393,15 @@ Your browser does not support audio.
 </tr>
 
 <tr>
-<td>AGK's end rage</td>
+<td>Goddamn mess</td>
 <td>
 <audio controls>
-<source src="audio/AGK's end rage.wav" type="audio/wav">
+<source src="audio/Goddamn mess.wav" type="audio/wav">
 Your browser does not support audio.
 </audio>
 </td>
-<td>The end of the Angry German Kid video is so epic humor!</td>
-<td>Angry German Kid aka Leopold Slikk</td>
+<td>How did they make that goddamn mess without doing anything?!</td>
+<td>Angry Grandpa</td>
 </tr>
 
 </tbody>

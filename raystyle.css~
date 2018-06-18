@@ -9,7 +9,6 @@ h1, h2, h3, h4, h5, h6 {
 header {
   background-color: whitesmoke;
   padding: 20px;
-  font-family: Arial;
   font-size: 20pt;
   color: firebrick;
   border: 3px groove turquoise;
@@ -17,7 +16,7 @@ header {
   text-shadow: 4px 3px gray;
 }
 footer {
-  text-align: center; opacity: 0.8;
+  text-align: center; opacity: 0.5;
 }
 img {
   width: 100px; border: 3px groove teal;
