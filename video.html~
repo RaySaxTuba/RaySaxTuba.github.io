@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="raystyle.css">
+<link rel="icon" type="img/jpeg" href="images/Ray!.jpeg">
+<meta charset="UTF-8" />
+<title>Ray's original music</title>
+<meta name="description" content="The videos created by Raymond Raps page!">
+<meta name="keywords" content="Raymond Raps, tuba, saxophone,
+	Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
+	Anime, images, funny, Tourettes Guy">
+<meta name="author" content="Raymond J Raps" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<header>
+<img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
+<strong>The Website of Raymond Raps</strong>
+</header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="raybio.html">About Me</a></li>
+<li><a href="images.html">My images</a></li>
+<li><a href="music.html">My music</a></li>
+<li><a href="video.html" class="active">My videos</a></li>
+<li><a href="quotes.html">Favorite Funny Quotes</a></li>
+<li><a href="software.html">Ray's apps</a></li>
+</ul>
+</nav>
+<main>
+<h1>Ray's original videos</h1>
+<p>Welcome to my videos page!
+This is where you can watch my original funny witty videos!
+Have a listen!
+</p>
+<table>
+<caption>Ray's videos</caption>
+<thead>
+<tr>
+<th>Title:</th>
+<th>Video:</th>
+<th>Description:</th>
+<th>Sources:</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Where's my drink?! Skit</td>
+<td>
+<video width="320" height="240" controls>
+<source src="video/Where's My Drink.mp4">
+Your browser does not support videos.
+</video>
+</td>
+<td>
+This is a skit on a part of the Spongebob episode called The Krusty Krab Pizza.
+It's on the part where they meet the guy that bought the pizza and is wondering where his drink is.
+</td>
+<td>
+<ul>
+<li>Video editing program: Openshot</li>
+<li>Microphone: Blue Yeti Condenser Mic</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>
+</main>
+<footer>
+&#169; 2018 Raymond Raps<br>
+<a href="terms_privacy.html">Terms and Privacy</a><br>
+Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
+<br>
+</footer>
+</body>
+</html>
+<!-- Put instruments field in the table! -->

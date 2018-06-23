@@ -34,9 +34,9 @@
  	<p>Here are recordings of my favorite quotes! Have a listen by clicking on the play buttons!</p>
  	
  	<div class="pagelist">
- 	<p>Page:</p>
- 	<a>1</a>
- 	<a href="quotes2.html">2</a>
+ 		<p>Page:</p>
+ 		<a>1</a>
+ 		<a href="quotes2.html">2</a>
  	</div>
  	
 <table>

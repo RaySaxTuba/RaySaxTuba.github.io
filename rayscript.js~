@@ -1,10 +1,12 @@
-//This will calculate how many visitors came to this site.
+// this is the javascript for the website
 
-//document.getElementById('copyright').innerHTML = 2018;
-
-var visit = 0;
-
-function getVisit() {
-	visit = visit + 1;
-	document.getElementById('visit').innerHTML = visit;
-}
+document.getElementsByTagName("nav").innerHTML =
+<ul>
+<li><a href='index.html'>Home</a></li>
+<li><a href="raybio.html">About Me</a></li>
+<li><a href="images.html">My images</a></li>
+<li><a href="music.html">My music</a></li>
+<li><a href="video.html">My videos</a></li>
+<li><a href="quotes.html" class="active">Favorite Funny Quotes</a></li>
+<li><a href='software.html'>Ray's apps</a></li>
+</ul>
