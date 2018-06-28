@@ -140,7 +140,19 @@ Your browser does not support audio.
 </audio>
 </td>
 <td>This song makes zero sense! Note that this song has nothing to do with Superman. I just wanted to give this song a stupid name.</td>
-<td>Logic Pro X</td>
+<td>Recording Studio</td>
+</tr>
+
+<tr>
+<td>The Sax Bazz Tuba Jazz!</td>
+<td>
+<audio controls>
+<source src="audio/The Sax Bazz Tuba Jazz! original.wav" type="audio/wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>I made this jazz tune bazed off of a jazz song in a video game! The tuba is loud!</td>
+<td>Recording Studio</td>
 </tr>
 
 </tbody>
