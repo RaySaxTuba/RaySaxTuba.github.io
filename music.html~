@@ -23,6 +23,7 @@
 <li><a href="raybio.html">About Me</a></li>
 <li><a href="images.html">My images</a></li>
 <li><a href="music.html" class="active">My music</a></li>
+<li><a href="video.html">My videos</a></li>
 <li><a href="quotes.html">Favorite Funny Quotes</a></li>
 <li><a href="software.html">Ray's apps</a></li>
 </ul>
@@ -127,6 +128,18 @@ Your browser does not support audio.
 </audio>
 </td>
 <td>Mah death disco!</td>
+<td>Logic Pro X</td>
+</tr>
+
+<tr>
+<td>Superman Buzz</td>
+<td>
+<audio controls>
+<source src="audio/Superman Buzz.wav" type="audio/wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>This song makes zero sense! Note that this song has nothing to do with Superman. I just wanted to give this song a stupid name.</td>
 <td>Logic Pro X</td>
 </tr>
 
