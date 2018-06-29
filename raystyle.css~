@@ -1,5 +1,5 @@
 body {
-  font-family: Chalkboard, Tahoma, Verdana;
+  font-family: Comic Sans MS, Chalkboard, Tahoma, Verdana;
   background: linear-gradient(to bottom right, gray, teal);
 }
 h1, h2, h3, h4, h5, h6 {
@@ -15,7 +15,7 @@ header {
   margin: 0;
   text-shadow: 4px 3px gray;
 }
-footer {
+footer, .pagelist {
   text-align: center; opacity: 0.5;
 }
 img {
