@@ -94,8 +94,20 @@ Your browser does not support audio.
 Your browser does not support audio.
 </audio>
 </td>
-<td>No offense to Mexicans but here is a modified quote originating from Angry Grandpa, with Mexicans!"</td>
+<td>No offense to Mexicans but here is a modified quote originating from Angry Grandpa, with Mexicans!</td>
 <td>Me, Angry Grandpa</td>
+</tr>
+
+<tr>
+<td>I'll be back!</td>
+<td>
+<audio controls>
+<source src="audio/I'll be back!.wav" type="audio/wav">
+Your browser does not support audio.
+</audio>
+</td>
+<td>A quote from Arnold Schwarzenegger! In Fairly Odd Parents!</td>
+<td>Arnold Schwarzenegger</td>
 </tr>
 
 </tbody>
