@@ -22,16 +22,17 @@
     <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
     <strong>The Website of Raymond Raps</strong>
     </header>
-    <nav>
-    <ul>
-      <li><a href="index.html" class="active">Home</a></li>
-      <li><a href="raybio.html">About Me</a></li>
-      <li><a href="images.html">My images</a></li>
-      <li><a href="music.html">My music</a></li>
-      <li><a href="quotes.html">Favorite Funny Quotes</a></li>
-      <li><a href="software.html">Ray's apps</a></li>
-    </ul>
-    </nav>
+<nav>
+<ul>
+<li><a href="index.html" class="active">Home</a></li>
+<li><a href="raybio.html">About Me</a></li>
+<li><a href="images.html">My images</a></li>
+<li><a href="music.html">My music</a></li>
+<li><a href="video.html">My videos</a></li>
+<li><a href="quotes.html">Favorite Funny Quotes</a></li>
+<li><a href="software.html">Ray's apps</a></li>
+</ul>
+</nav>
     <main>
       <h1>Welcome to Ray's Homepage!</h1>
       <p>This is the website of the wacky whimsical Raymond Raps.</p>
