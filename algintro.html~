@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--Add links to your other sites like Pinterest.-->
+<!--Make reviews for open source programs.-->
+<!--Add a news page-->
+<html>
+  <head>
+    <title>Algebra section</title>
+    <link rel="stylesheet" type="text/css" href="raystyle.css">
+    <link rel="icon" type="img/jpeg" href="images/Ray!.jpeg">
+    <meta charset="UTF-8">
+    <meta name="description" content="Ray's wacky funny classroom">
+	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
+    		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
+    		Anime, images, funny, Tourettes Guy, Math">
+    <meta name="author" content="Raymond J Raps" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="rayscript.js">
+    </script>
+  </head>
+  <body>
+    <header>
+    <img src="images/Ray!.jpeg" alt="Picture of Raymond Raps">
+    <strong>Ray Way, Raymond's badass class!</strong>
+    </header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="raybio.html">About Me</a></li>
+<li><a href="images.html">My images</a></li>
+<li><a href="music.html">My music</a></li>
+<li><a href="video.html">My videos</a></li>
+<li><a href="quotes.html">Favorite Funny Quotes</a></li>
+<li><a href="software.html">Ray's apps</a></li>
+<li><a href="rayway.html">Ray Way</a></li>
+</ul>
+</nav>
+    <main>
+      <h1>Algebra Intro/Keeping the goddamn balance!</h1>
+      <p>
+      Welcome to Algebra!
+      Here you will learn about variables and finding the goddamn value of the variables via <strong>keeping the goddamn balance!</strong>
+      </p>
+      <hr>
+      <h2>WTF is a variable?</h2>
+      <p>
+		A variable is a symbol that represents a value we don't know yet.
+		<h3>Example:</h3>
+		<p>
+		5+x=9
+		</p>
+      </p>
+    </main>
+    <footer>
+      &#169; <span id="copyright">2018</span> Raymond Raps<br>
+      <a href="terms_privacy.html">Terms and Privacy</a><br>
+      Email: <a href="mailto:rjraps@gmail.com">rjraps@gmail.com</a>
+      <br>
+    </footer>
+  </body>
+</html>
