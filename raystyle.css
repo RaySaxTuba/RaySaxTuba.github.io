@@ -1,10 +1,10 @@
 body {
-  font-family: Comic Sans MS, Chalkboard, Tahoma, Verdana;
-  background: linear-gradient(to bottom right, gray, teal);
+  font-family: Gabriola, Ink Free, Consolas, Carlito, Tahoma, Verdana;
+  background: linear-gradient(to bottom right, indigo, teal);
 }
 h1, h2, h3, h4, h5, h6 {
-	color: teal;
-	text-shadow: 4px 3px blue;
+	color: inherit;
+	//text-shadow: 4px 3px blue;
 }
 header {
   background-color: whitesmoke;
@@ -13,18 +13,23 @@ header {
   color: firebrick;
   border: 3px groove turquoise;
   margin: 0;
-  text-shadow: 4px 3px gray;
+  //text-shadow: 4px 3px gray;
+  border: 10px groove red
 }
 footer, .pagelist {
-  text-align: center; opacity: 0.5;
+  text-align: center;
+  opacity: 0.75;
+  font-size: 15pt;
 }
 img {
   width: 100px; border: 3px groove teal;
 }
 main {
   padding: 10px;
-  background-color: white;
+  background-color: teal;
   border: 2px ridge blue;
+  color: gold;
+  font-size: 20pt
 }
 .menu {
   padding: 5px;
@@ -40,6 +45,7 @@ table, th, td {
 	border-collapse: collapse;
 }
 nav {
+  font-size: 20pt;
 	overflow: hidden;
 	background-color: silver;
 	position: relative;

@@ -1,7 +1,12 @@
+"use strict";
 // This is a physical Angry Grandpa rage tuba thing!
-var agp = new Image();
-agp.src = "images/agp.jpg";
 
-var canvas = document.getElementById("agpRagePhysics");
-var ctx = canvas.getContext('2d');
-ctx.drawImage(agp,0,0,100,100);
+function draw()
+{
+    var dummy = new Image();
+    dummy.src = "images/agp.jpg";
+    var canvas = document.getElementById("agpRagePhysics");
+    var ctx = canvas.getContext("2d");
+    ctx.drawImage(dummy,0,0,100,100);
+}
+
