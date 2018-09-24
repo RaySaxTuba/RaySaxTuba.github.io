@@ -3,10 +3,9 @@
 
 function draw()
 {
-    var dummy = new Image();
-    dummy.src = "images/agp.jpg";
     var canvas = document.getElementById("agpRagePhysics");
     var ctx = canvas.getContext("2d");
+    var dummy = new Image();
+    dummy.src = "images/agp.jpg";
     ctx.drawImage(dummy,0,0,100,100);
 }
-
