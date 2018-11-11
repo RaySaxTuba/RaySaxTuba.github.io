@@ -1,10 +1,11 @@
 body {
-  font-family: Gabriola, Ink Free, Consolas, Carlito, Tahoma, Verdana;
+  font-family: Arial, Tahoma, Verdana;
   background: linear-gradient(to bottom right, indigo, teal);
+  text-shadow: 2px 2px gray;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: inherit;
-	//text-shadow: 4px 3px blue;
+	/*text-shadow: 4px 3px blue;*/
 }
 header {
   background-color: whitesmoke;
@@ -13,7 +14,7 @@ header {
   color: firebrick;
   border: 3px groove turquoise;
   margin: 0;
-  //text-shadow: 4px 3px gray;
+  /*text-shadow: 4px 3px gray;*/
   border: 10px groove red
 }
 footer, .pagelist {
@@ -29,7 +30,7 @@ main {
   background-color: teal;
   border: 2px ridge blue;
   color: gold;
-  font-size: 20pt
+  /*font-size: 20pt*/
 }
 .menu {
   padding: 5px;
@@ -38,7 +39,7 @@ audio {
 	align-content: center;
 }
 ul, ol {
-	color: hotpink;
+	color: red;
 }
 table, th, td {
 	border: 3px groove teal;
