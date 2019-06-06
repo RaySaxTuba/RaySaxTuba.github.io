@@ -12,4 +12,7 @@ document.getElementsByTagName("nav").innerHTML =
 </ul>";
 */
 
-window.alert("Mah candy!");
+function warn()
+{
+	window.alert("Warning! This website contains adult content that might be too much for kids. Viewer's discretion is advised.");
+}
