@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="raystyle.css">
     <link rel="icon" type="img/jpeg" href="images/Ray!.jpeg">
     <meta charset="UTF-8">
-    <meta name="description" content="The website all about Raymond Raps!">
+    <meta name="description" content="The page about Ray's apps!">
 	<meta name="keywords" content="Raymond Raps, tuba, saxophone,
     		Angry Grandpa, Psycho Dad, Angry Australian Dad, wacky, Transformers,
     		Anime, images, funny, Tourettes Guy">
@@ -36,6 +36,12 @@
 <p>physicsrayplay:
 <a href="apps/physicsrayplay.exe.zip">Windows 64bit</a>
 <a href="apps/physicsrayplay.zip">MacOS</a>
+</p>
+<p>Scaray:
+<a href="apps/Scaray.exe.zip">Windows 64bit</a>
+<a href="apps/Scaray.zip">MacOS</a>
+<p>Angry Grandpa rage physics 1:
+  <a href="agpRagePhysics.html">See the app on here</a>
 </p>
 <canvas id="mahNewton" width="500" height="500" onclick="alert('Mah candy!')">
 Your browser does not support canvas!
