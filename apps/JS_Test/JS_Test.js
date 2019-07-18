@@ -1,10 +1,9 @@
-let agp;
-//let mahCandy;
+var agp, mahCandy;
 
 function preload() {
   soundFormats('wav', 'mp3');
   agp = loadImage("data/AngryGrampa.jpg");
-  //mahCandy = loadSound("data/MAH candy!.wav");
+  mahCandy = loadSound("data/The kitchen has finally closed!.wav");
 }
 
 function setup() {
@@ -12,10 +11,9 @@ function setup() {
   imageMode(CENTER);
   textAlign(CENTER);
   // Make volume get higher as the sound loops!
-  //mahCandy.setVolume(0.1);
   // Multiple quotes!
   // Make the "I've had it with you!" quote!
-  //mahCandy.play();
+  mahCandy.play();
 }
 
 function draw() {
