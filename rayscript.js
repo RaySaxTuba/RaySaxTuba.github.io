@@ -23,5 +23,7 @@ document.getElementsByTagName('footer').innerHTML =
 */
 function warn()
 {
-	window.alert("Warning! This website contains a crazy genius and screwed up content that might be too much for kids. Viewer's discretion is advised.");
+	window.alert(
+		"Warning! This website contains a crazy genius and screwed up content that might be too much for kids. Viewer's discretion is advised."
+	);
 }
