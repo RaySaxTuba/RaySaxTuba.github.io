@@ -11,7 +11,8 @@ document.getElementsByTagName("nav").innerHTML =
 "<li><a href=\'software.html\'>Ray\'s apps</a></li>\n" +
 "</ul>";
 
-currYear = "2019";
+currYear = "2019";// Make currYear automatically update itself.
+// Make visit counter!
 
 document.getElementById('copyright').innerHTML = currYear;
 /*

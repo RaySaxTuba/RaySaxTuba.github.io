@@ -26,3 +26,9 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
+picMaxMin();
+function picMaxMin() {
+  var slideAmt = document.getElementsByClassName("mySlides");
+  var slideLen = slideAmt.length;
+  document.getElementById("picMax").innerHTML = slideLen;
+}
