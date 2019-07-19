@@ -28,3 +28,31 @@ function warn()
 		"Warning! This website contains a crazy genius and screwed up content that might be too much for kids. Viewer's discretion is advised."
 	);
 }
+// When user clicks on your image, it will make a sound!
+
+function raySpeak() {
+	var speech = [
+		"audio/The Tuba is Loud.wav",
+		"audio/The force.wav",
+		"audio/Mexican Bastards.wav"
+	];
+	var chooser = Math.floor(Math.random()*speech.length);
+}
+
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var navbar = document.getElementById("navnag");
+
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}

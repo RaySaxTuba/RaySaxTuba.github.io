@@ -1,21 +1,30 @@
+body, html {
+  height: 100%;
+}
+
+a {
+  color: gold;
+}
+
 body {
   font-family: Rubik, Arial, Tahoma, Verdana;
-  background: linear-gradient(to bottom right, indigo, teal);
+  background: linear-gradient(to bottom right, black, red);
+  /*background-repeat: no-repeat;*/
   text-shadow: 2px 2px gray;
 }
 h1, h2, h3, h4, h5, h6 {
-	color: inherit;
+	color: lightgray;
 	/*text-shadow: 4px 3px blue;*/
 }
 header {
-  background-color: whitesmoke;
+  background: linear-gradient(to bottom right, black, blue);
   padding: 20px;
   font-size: 20pt;
   color: firebrick;
   border: 3px groove turquoise;
   margin: 0;
   /*text-shadow: 4px 3px gray;*/
-  border: 10px groove red
+  /*border: 10px groove red*/
 }
 footer, .pagelist {
   text-align: center;
@@ -25,13 +34,7 @@ footer, .pagelist {
 img {
   width: 100px; border: 3px groove teal;
 }
-main {
-  padding: 10px;
-  background-color: teal;
-  border: 2px ridge blue;
-  color: gold;
-  /*font-size: 20pt*/
-}
+
 .menu {
   padding: 5px;
 }
@@ -39,41 +42,46 @@ audio {
 	align-content: center;
 }
 ul, ol {
-	color: red;
+	color: inherit;
 }
 table, th, td {
 	border: 3px groove teal;
 	border-collapse: collapse;
 }
 nav {
-  font-size: 20pt;
+  font-size: 1em;
 	overflow: hidden;
-	background-color: silver;
-	position: relative;
-	width: 100%;
-	margin: 0;
+	background-color: #ee00ff;
+  top: 0;
+  border-radius: 10px;
+  border-bottom: indigo groove 4px
 }
 nav a {
 	float: left;
 	display: block;
-	color: #880000;
+	color: #0033cc;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 14px 4px;
 	text-decoration: none;
 }
+
+main {
+  padding: 16px
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + main {
+  padding-top: 60px;
+}
+
 nav a:hover, .active {
 	background-color: #ffeead;
 	color: black;
-}
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	display: inline;
-}
-
-.secret {
-	opacity: 0
 }
 
 canvas {
