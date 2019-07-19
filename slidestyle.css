@@ -60,7 +60,7 @@
 
 .text, .numbertext {
   background-color: teal;
-  color: brown;
+  color: orange;
   outline: groove 3px red;
 }
 
