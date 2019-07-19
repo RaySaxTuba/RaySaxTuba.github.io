@@ -40,7 +40,6 @@
 
 /* Caption text */
 .text {
-  color: green;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -52,12 +51,17 @@
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: blue;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
   top: 0;
   text-shadow: none;
+}
+
+.text, .numbertext {
+  background-color: teal;
+  color: brown;
+  outline: groove 3px red;
 }
 
 /* The dots/bullets/indicators */
