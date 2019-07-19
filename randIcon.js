@@ -2,7 +2,7 @@
 var iconList = [
   "agp.jpg",
   "Ray demon.jpeg",
-  "Alexis Rhodes sketch.jpg",
+  "Alexis Rhodes sketch.JPG",
   "Angry Austrailian Dad.jpg",
   "Ray!.jpeg"
 ];
