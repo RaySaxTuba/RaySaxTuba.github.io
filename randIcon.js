@@ -10,4 +10,5 @@ var pathAdd = "images/";
 var listLen = iconList.length;
 
 document.getElementById("rando").setAttribute("href",
-pathAdd + iconList[Math.round(Math.random()*listLen)]);
+pathAdd + iconList[Math.floor(Math.random()*listLen)]
+);
