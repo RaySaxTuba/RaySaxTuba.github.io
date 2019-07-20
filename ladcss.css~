@@ -1,7 +1,0 @@
-body {
-	font-family: Verdana, Tahoma;
-	background: linear-gradient(to bottom right, red, black);
-}
-footer {
-	text-align: center;
-}
