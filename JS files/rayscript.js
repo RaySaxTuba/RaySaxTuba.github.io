@@ -16,13 +16,13 @@ var agpQuotes = [
   'Can\'t get no rest!' +
   'Can\'t get no respect!"',
 
-  '"I\'ve had it with you!' +
-  'Ain\'t nothing left to tear up!' +
-  'The kitchen, has finally closed!!"'
+  'I\'ve had it with you! ' +
+  'Ain\'t nothing left to tear up! ' +
+  'The kitchen, has finally closed!!'
 ];
 
 var animeQuotes = [
-  '"It\'s over 9000!!!!" -- Vegeta'
+  'It\'s over 9000!!!!'
 ];
 
 var quoteList = [
@@ -35,7 +35,7 @@ document.getElementById('copyright').innerHTML = year;
 
 function quoteChoose() {
   var sayer, chosen;
-  var chooser = Math.floor(random()*quoteList.length);
+  var chooser = Math.floor(Math.random()*quoteList.length);
 
   switch (chooser) {
     case 0:
@@ -48,11 +48,11 @@ function quoteChoose() {
       break;
     case 2:
     chosen = quoteList[chooser];
-    sayer = "";
+    sayer = "Vegeta";
       break;
   }
-  var postChoose = Math.floor(random()*chosen.length);
-  document.getElementById('footQuotes').innerHTML =
+  var postChoose = Math.floor(Math.random()*chosen.length);
+  document.getElementById('footquotes').innerHTML =
   "\""+chosen[postChoose]+ "\"" + " -- " + sayer;
 }
 quoteChoose();
