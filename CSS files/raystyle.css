@@ -9,6 +9,6 @@ img {
   border: 3px ridge teal;
 }
 
-footer {
+footer, nav {
   text-align: center;
 }
