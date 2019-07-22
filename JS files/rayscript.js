@@ -1,8 +1,6 @@
 // this is the javascript for the website
-
 // This is the copyright year updater code
 var year = 2019;
-var visAmt = 0;
 // These are quotes from people including me!
 var rayQuotes = [
   'The tuba is loud!',
@@ -140,8 +138,3 @@ document.getElementById('kw').content =
 "rage, angry, anime, Angry Grandpa, Psycho Dad, " +
 "tuba, saxophone, Tourettes Guy, multi-instrumentalist, " +
 "Metroid, Zelda, Legacy of Kain, filmnstuff";
-
-function visitCount() {
-  visAmt += 1;
-  document.getElementById('visCnter').innerHTML = visAmt;
-}
